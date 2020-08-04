@@ -136,4 +136,4 @@ The following evaluation results are based on all aspects of the SentiHood datas
 |  BERT-pair QA-B |        96.87       |      72.38      |       89.5      |
 | BERT-pair NLI-B |        96.66       |      71.47      |      89.51      |
 
-*Note*: While executing the notebooks, you may need to change the existing path based on your system. And contributions are most welcomed. You can either open an issue or directly contact [me](nix07.github.io). 
+*Note*: While executing the notebooks, you may need to change the existing path based on your system. And contributions are most welcomed. You can either open an issue or directly contact [me](https://nix07.github.io/). 

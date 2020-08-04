@@ -1,0 +1,10 @@
+Corrects: 722	Total: 747	Accuracy: 96.65327978580991
+Corrects: 725	Total: 747	Accuracy: 97.05488621151271
+Corrects: 723	Total: 747	Accuracy: 96.78714859437751
+Corrects: 731	Total: 747	Accuracy: 97.85809906291834
+Corrects: 732	Total: 747	Accuracy: 97.99196787148594
+Corrects: 730	Total: 747	Accuracy: 97.72423025435074
+Corrects: 731	Total: 747	Accuracy: 97.85809906291834
+Corrects: 732	Total: 747	Accuracy: 97.99196787148594
+Corrects: 732	Total: 747	Accuracy: 97.99196787148594
+Corrects: 731	Total: 747	Accuracy: 97.85809906291834

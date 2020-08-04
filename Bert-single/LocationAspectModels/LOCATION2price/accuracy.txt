@@ -1,0 +1,10 @@
+Corrects: 163	Total: 190	Accuracy: 85.78947368421052
+Corrects: 172	Total: 190	Accuracy: 90.52631578947368
+Corrects: 178	Total: 190	Accuracy: 93.6842105263158
+Corrects: 178	Total: 190	Accuracy: 93.6842105263158
+Corrects: 174	Total: 190	Accuracy: 91.57894736842105
+Corrects: 170	Total: 190	Accuracy: 89.47368421052632
+Corrects: 174	Total: 190	Accuracy: 91.57894736842105
+Corrects: 176	Total: 190	Accuracy: 92.63157894736842
+Corrects: 177	Total: 190	Accuracy: 93.15789473684211
+Corrects: 177	Total: 190	Accuracy: 93.15789473684211

@@ -1,0 +1,8 @@
+Corrects: 32798	Total: 33732	Accuracy: 97.2311158543816
+Corrects: 33016	Total: 33732	Accuracy: 97.87738645796277
+Corrects: 33123	Total: 33732	Accuracy: 98.1945926716471
+Corrects: 33070	Total: 33732	Accuracy: 98.03747183683149
+Corrects: 33126	Total: 33732	Accuracy: 98.20348630380647
+Corrects: 33108	Total: 33732	Accuracy: 98.15012451085023
+Corrects: 33084	Total: 33732	Accuracy: 98.07897545357524
+Corrects: 33114	Total: 33732	Accuracy: 98.16791177516897

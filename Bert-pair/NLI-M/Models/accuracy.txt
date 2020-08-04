@@ -1,0 +1,10 @@
+Corrects: 10235	Total: 11244	Accuracy: 91.02632515119174
+Corrects: 10733	Total: 11244	Accuracy: 95.45535396655994
+Corrects: 10795	Total: 11244	Accuracy: 96.00675916044112
+Corrects: 10903	Total: 11244	Accuracy: 96.96727143365351
+Corrects: 10889	Total: 11244	Accuracy: 96.84276058342228
+Corrects: 10920	Total: 11244	Accuracy: 97.11846318036285
+Corrects: 10942	Total: 11244	Accuracy: 97.31412308786909
+Corrects: 10939	Total: 11244	Accuracy: 97.28744219139097
+Corrects: 10958	Total: 11244	Accuracy: 97.45642120241907
+Corrects: 10961	Total: 11244	Accuracy: 97.48310209889719
